@@ -1,6 +1,15 @@
 .App {
   text-align: center;
 }
+.mybuttons{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+button{
+  margin: 10px;
+}
 
 .App-logo {
   height: 40vmin;
